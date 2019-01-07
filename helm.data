@@ -1,5 +1,5 @@
-classes= 100
-train  = /Users/bcheung/dev/ML/darknet/data/food100/train.txt  
-valid  = /Users/bcheung/dev/ML/darknet/data/food100/test.txt  
-names = /Users/bcheung/dev/ML/darknet/data/food100/food100.names  
+classes= 2
+train  = /content/darknet/data/bridgetocolab/train.txt  
+valid  = /content/darknet/data/bridgetocolab/test.txt  
+names = /content/darknet/data/bridgetocolab/helm.names  
 backup = backup
