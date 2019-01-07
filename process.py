@@ -5,7 +5,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 print(current_dir)
 
-current_dir = '/home/navaneeth/work/yolo_migration/darknet/data/obj'
+current_dir = '/content/darknet/data/bridgetocolab/obj'
 
 # Directory where the data will reside, relative to 'darknet.exe'
 #path_data = './NFPAdataset/'
