@@ -1,0 +1,16 @@
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm95.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm6.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm61.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm79.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm4.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm3.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/helm36.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm50.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm7.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm52.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm81.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/helm39.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm35.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm15.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm72.jpg
+/home/navaneeth/work/yolo_migration/darknet/data/obj/nohelm76.jpg
